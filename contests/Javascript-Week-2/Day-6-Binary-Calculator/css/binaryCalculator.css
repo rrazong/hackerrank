@@ -1,0 +1,35 @@
+#calc {
+    width: 600px;
+}
+#res {
+    background-color: lightgray;
+    border: solid;
+    font-size: 20px;
+    height: 48px;
+    width: 81%;
+}
+
+#btns {
+    width: 90%;
+}
+
+#btn0, #btn1 {
+    background-color: lightgreen;
+    color: brown;
+}
+
+#btnClr, #btnEql {
+    background-color: darkgreen;
+    color: white;
+}
+
+#btnSum, #btnSub, #btnMul, #btnDiv {
+    background-color: black;
+    color: red;        
+}
+
+button {
+    font-size: 18px;
+    height: 36px;
+    width: 22%
+}
